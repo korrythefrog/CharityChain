@@ -2,7 +2,7 @@
 import Image from "next/image";
 import { Typography, IconButton, Button } from "@material-tailwind/react";
 
-const LINKS = ["About Us", "Careers", "Press", "Blog", "Pricing"];
+const LINKS = ["Home", "About Us", "For Donors", "For Charities"];
 const CURRENT_YEAR = new Date().getFullYear();
 
 export function Footer() {

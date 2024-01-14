@@ -747,7 +747,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/client/image.js",
         "name": "*",
         "chunks": [
-          "app/layout:static/chunks/app/layout.js"
+          "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
         ],
         "async": false
       },
@@ -755,7 +755,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/client/image.js",
         "name": "",
         "chunks": [
-          "app/layout:static/chunks/app/layout.js"
+          "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
         ],
         "async": false
       },
@@ -763,7 +763,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/client/image.js",
         "name": "default",
         "chunks": [
-          "app/layout:static/chunks/app/layout.js"
+          "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
         ],
         "async": false
       }
@@ -773,7 +773,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "*",
         "chunks": [
-          "app/layout:static/chunks/app/layout.js"
+          "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
         ],
         "async": false
       },
@@ -781,7 +781,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "",
         "chunks": [
-          "app/layout:static/chunks/app/layout.js"
+          "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
         ],
         "async": false
       },
@@ -789,7 +789,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "default",
         "chunks": [
-          "app/layout:static/chunks/app/layout.js"
+          "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
         ],
         "async": false
       },
@@ -797,7 +797,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "defaultHead",
         "chunks": [
-          "app/layout:static/chunks/app/layout.js"
+          "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
         ],
         "async": false
       },
@@ -805,7 +805,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "charSet",
         "chunks": [
-          "app/layout:static/chunks/app/layout.js"
+          "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
         ],
         "async": false
       },
@@ -813,7 +813,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "name",
         "chunks": [
-          "app/layout:static/chunks/app/layout.js"
+          "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
         ],
         "async": false
       },
@@ -821,7 +821,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "content",
         "chunks": [
-          "app/layout:static/chunks/app/layout.js"
+          "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
         ],
         "async": false
       },
@@ -829,7 +829,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "\"title\"",
         "chunks": [
-          "app/layout:static/chunks/app/layout.js"
+          "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
         ],
         "async": false
       },
@@ -837,7 +837,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "\"base\"",
         "chunks": [
-          "app/layout:static/chunks/app/layout.js"
+          "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
         ],
         "async": false
       },
@@ -845,7 +845,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "\"meta\"",
         "chunks": [
-          "app/layout:static/chunks/app/layout.js"
+          "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
         ],
         "async": false
       },
@@ -853,7 +853,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "TODO(prateekbh@)",
         "chunks": [
-          "app/layout:static/chunks/app/layout.js"
+          "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
         ],
         "async": false
       },
@@ -861,7 +861,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "\"https",
         "chunks": [
-          "app/layout:static/chunks/app/layout.js"
+          "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
         ],
         "async": false
       },
@@ -869,7 +869,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "here",
         "chunks": [
-          "app/layout:static/chunks/app/layout.js"
+          "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
         ],
         "async": false
       },
@@ -877,7 +877,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "https",
         "chunks": [
-          "app/layout:static/chunks/app/layout.js"
+          "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
         ],
         "async": false
       },
@@ -885,7 +885,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "reduceComponentsToState",
         "chunks": [
-          "app/layout:static/chunks/app/layout.js"
+          "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
         ],
         "async": false
       },
@@ -893,7 +893,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "headManager",
         "chunks": [
-          "app/layout:static/chunks/app/layout.js"
+          "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
         ],
         "async": false
       },
@@ -901,7 +901,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "inAmpMode",
         "chunks": [
-          "app/layout:static/chunks/app/layout.js"
+          "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
         ],
         "async": false
       },
@@ -909,7 +909,193 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "value",
         "chunks": [
-          "app/layout:static/chunks/app/layout.js"
+          "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/components/fixed-plugin.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/components/fixed-plugin.tsx",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/components/fixed-plugin.tsx",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "FixedPlugin": {
+        "id": "(sc_client)/./src/components/fixed-plugin.tsx",
+        "name": "FixedPlugin",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/components/footer.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/components/footer.tsx",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/components/footer.tsx",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "Footer": {
+        "id": "(sc_client)/./src/components/footer.tsx",
+        "name": "Footer",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/components/footer.tsx",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/components/index.ts": {
+      "*": {
+        "id": "(sc_client)/./src/components/index.ts",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/components/index.ts",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "FeatureCard": {
+        "id": "(sc_client)/./src/components/index.ts",
+        "name": "FeatureCard",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "FixedPlugin": {
+        "id": "(sc_client)/./src/components/index.ts",
+        "name": "FixedPlugin",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "Footer": {
+        "id": "(sc_client)/./src/components/index.ts",
+        "name": "Footer",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "InfoCard": {
+        "id": "(sc_client)/./src/components/index.ts",
+        "name": "InfoCard",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "Layout": {
+        "id": "(sc_client)/./src/components/index.ts",
+        "name": "Layout",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "Navbar": {
+        "id": "(sc_client)/./src/components/index.ts",
+        "name": "Navbar",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/components/layout.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/components/layout.tsx",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/components/layout.tsx",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "Layout": {
+        "id": "(sc_client)/./src/components/layout.tsx",
+        "name": "Layout",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/components/layout.tsx",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/image/trees.jpg": {
+      "*": {
+        "id": "(sc_client)/./src/image/trees.jpg",
+        "name": "*",
+        "chunks": [
+          "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/image/trees.jpg",
+        "name": "",
+        "chunks": [
+          "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/image/trees.jpg",
+        "name": "default",
+        "chunks": [
+          "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
         ],
         "async": false
       }
@@ -1004,166 +1190,6 @@ self.__RSC_MANIFEST={
         "name": "default",
         "chunks": [
           "app/page:static/chunks/app/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/components/fixed-plugin.tsx": {
-      "*": {
-        "id": "(sc_client)/./src/components/fixed-plugin.tsx",
-        "name": "*",
-        "chunks": [
-          "app/layout:static/chunks/app/layout.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/components/fixed-plugin.tsx",
-        "name": "",
-        "chunks": [
-          "app/layout:static/chunks/app/layout.js"
-        ],
-        "async": false
-      },
-      "FixedPlugin": {
-        "id": "(sc_client)/./src/components/fixed-plugin.tsx",
-        "name": "FixedPlugin",
-        "chunks": [
-          "app/layout:static/chunks/app/layout.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/components/footer.tsx": {
-      "*": {
-        "id": "(sc_client)/./src/components/footer.tsx",
-        "name": "*",
-        "chunks": [
-          "app/layout:static/chunks/app/layout.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/components/footer.tsx",
-        "name": "",
-        "chunks": [
-          "app/layout:static/chunks/app/layout.js"
-        ],
-        "async": false
-      },
-      "Footer": {
-        "id": "(sc_client)/./src/components/footer.tsx",
-        "name": "Footer",
-        "chunks": [
-          "app/layout:static/chunks/app/layout.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/components/footer.tsx",
-        "name": "default",
-        "chunks": [
-          "app/layout:static/chunks/app/layout.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/components/index.ts": {
-      "*": {
-        "id": "(sc_client)/./src/components/index.ts",
-        "name": "*",
-        "chunks": [
-          "app/layout:static/chunks/app/layout.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/components/index.ts",
-        "name": "",
-        "chunks": [
-          "app/layout:static/chunks/app/layout.js"
-        ],
-        "async": false
-      },
-      "FeatureCard": {
-        "id": "(sc_client)/./src/components/index.ts",
-        "name": "FeatureCard",
-        "chunks": [
-          "app/layout:static/chunks/app/layout.js"
-        ],
-        "async": false
-      },
-      "FixedPlugin": {
-        "id": "(sc_client)/./src/components/index.ts",
-        "name": "FixedPlugin",
-        "chunks": [
-          "app/layout:static/chunks/app/layout.js"
-        ],
-        "async": false
-      },
-      "Footer": {
-        "id": "(sc_client)/./src/components/index.ts",
-        "name": "Footer",
-        "chunks": [
-          "app/layout:static/chunks/app/layout.js"
-        ],
-        "async": false
-      },
-      "InfoCard": {
-        "id": "(sc_client)/./src/components/index.ts",
-        "name": "InfoCard",
-        "chunks": [
-          "app/layout:static/chunks/app/layout.js"
-        ],
-        "async": false
-      },
-      "Layout": {
-        "id": "(sc_client)/./src/components/index.ts",
-        "name": "Layout",
-        "chunks": [
-          "app/layout:static/chunks/app/layout.js"
-        ],
-        "async": false
-      },
-      "Navbar": {
-        "id": "(sc_client)/./src/components/index.ts",
-        "name": "Navbar",
-        "chunks": [
-          "app/layout:static/chunks/app/layout.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/components/layout.tsx": {
-      "*": {
-        "id": "(sc_client)/./src/components/layout.tsx",
-        "name": "*",
-        "chunks": [
-          "app/layout:static/chunks/app/layout.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/components/layout.tsx",
-        "name": "",
-        "chunks": [
-          "app/layout:static/chunks/app/layout.js"
-        ],
-        "async": false
-      },
-      "Layout": {
-        "id": "(sc_client)/./src/components/layout.tsx",
-        "name": "Layout",
-        "chunks": [
-          "app/layout:static/chunks/app/layout.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/components/layout.tsx",
-        "name": "default",
-        "chunks": [
-          "app/layout:static/chunks/app/layout.js"
         ],
         "async": false
       }
@@ -2906,11 +2932,25 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
+    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/app/globals.css#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/layout.css"
+      ]
+    },
+    "/Users/emilyhkim/Desktop/GitHub/CharityChain/node_modules/next/font/google/target.css?{\"path\":\"src/app/layout.tsx\",\"import\":\"Roboto\",\"arguments\":[{\"subsets\":[\"latin\"],\"weight\":[\"300\",\"400\",\"500\",\"700\",\"900\"],\"display\":\"swap\"}],\"variableName\":\"roboto\"}#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/layout.css"
+      ]
+    },
     "/Users/emilyhkim/Desktop/GitHub/CharityChain/node_modules/next/dist/client/image.js": {
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "*",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
       ],
       "async": false
     },
@@ -2918,7 +2958,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "*",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
       ],
       "async": false
     },
@@ -2926,7 +2966,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
       ],
       "async": false
     },
@@ -2934,7 +2974,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
       ],
       "async": false
     },
@@ -2942,7 +2982,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "default",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
       ],
       "async": false
     },
@@ -2950,7 +2990,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "default",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
       ],
       "async": false
     },
@@ -2958,7 +2998,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "*",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
       ],
       "async": false
     },
@@ -2966,7 +3006,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "*",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
       ],
       "async": false
     },
@@ -2974,7 +3014,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
       ],
       "async": false
     },
@@ -2982,7 +3022,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
       ],
       "async": false
     },
@@ -2990,7 +3030,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "default",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
       ],
       "async": false
     },
@@ -2998,7 +3038,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "default",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
       ],
       "async": false
     },
@@ -3006,7 +3046,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "defaultHead",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
       ],
       "async": false
     },
@@ -3014,7 +3054,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "defaultHead",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
       ],
       "async": false
     },
@@ -3022,7 +3062,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "charSet",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
       ],
       "async": false
     },
@@ -3030,7 +3070,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "charSet",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
       ],
       "async": false
     },
@@ -3038,7 +3078,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "name",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
       ],
       "async": false
     },
@@ -3046,7 +3086,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "name",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
       ],
       "async": false
     },
@@ -3054,7 +3094,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "content",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
       ],
       "async": false
     },
@@ -3062,7 +3102,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "content",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
       ],
       "async": false
     },
@@ -3070,7 +3110,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "\"title\"",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
       ],
       "async": false
     },
@@ -3078,7 +3118,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "\"title\"",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
       ],
       "async": false
     },
@@ -3086,7 +3126,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "\"base\"",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
       ],
       "async": false
     },
@@ -3094,7 +3134,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "\"base\"",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
       ],
       "async": false
     },
@@ -3102,7 +3142,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "\"meta\"",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
       ],
       "async": false
     },
@@ -3110,7 +3150,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "\"meta\"",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
       ],
       "async": false
     },
@@ -3118,7 +3158,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "TODO(prateekbh@)",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
       ],
       "async": false
     },
@@ -3126,7 +3166,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "TODO(prateekbh@)",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
       ],
       "async": false
     },
@@ -3134,7 +3174,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "\"https",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
       ],
       "async": false
     },
@@ -3142,7 +3182,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "\"https",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
       ],
       "async": false
     },
@@ -3150,7 +3190,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "here",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
       ],
       "async": false
     },
@@ -3158,7 +3198,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "here",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
       ],
       "async": false
     },
@@ -3166,7 +3206,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "https",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
       ],
       "async": false
     },
@@ -3174,7 +3214,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "https",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
       ],
       "async": false
     },
@@ -3182,7 +3222,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "reduceComponentsToState",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
       ],
       "async": false
     },
@@ -3190,7 +3230,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "reduceComponentsToState",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
       ],
       "async": false
     },
@@ -3198,7 +3238,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "headManager",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
       ],
       "async": false
     },
@@ -3206,7 +3246,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "headManager",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
       ],
       "async": false
     },
@@ -3214,7 +3254,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "inAmpMode",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
       ],
       "async": false
     },
@@ -3222,7 +3262,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "inAmpMode",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
       ],
       "async": false
     },
@@ -3230,7 +3270,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "value",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
       ],
       "async": false
     },
@@ -3238,7 +3278,183 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "value",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
+      ],
+      "async": false
+    },
+    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/components/fixed-plugin.tsx": {
+      "id": "(app-client)/./src/components/fixed-plugin.tsx",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/components/fixed-plugin.tsx#": {
+      "id": "(app-client)/./src/components/fixed-plugin.tsx",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/components/fixed-plugin.tsx#FixedPlugin": {
+      "id": "(app-client)/./src/components/fixed-plugin.tsx",
+      "name": "FixedPlugin",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/components/footer.tsx": {
+      "id": "(app-client)/./src/components/footer.tsx",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/components/footer.tsx#": {
+      "id": "(app-client)/./src/components/footer.tsx",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/components/footer.tsx#Footer": {
+      "id": "(app-client)/./src/components/footer.tsx",
+      "name": "Footer",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/components/footer.tsx#default": {
+      "id": "(app-client)/./src/components/footer.tsx",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/components/index.ts": {
+      "id": "(app-client)/./src/components/index.ts",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/components/index.ts#": {
+      "id": "(app-client)/./src/components/index.ts",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/components/index.ts#FeatureCard": {
+      "id": "(app-client)/./src/components/index.ts",
+      "name": "FeatureCard",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/components/index.ts#FixedPlugin": {
+      "id": "(app-client)/./src/components/index.ts",
+      "name": "FixedPlugin",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/components/index.ts#Footer": {
+      "id": "(app-client)/./src/components/index.ts",
+      "name": "Footer",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/components/index.ts#InfoCard": {
+      "id": "(app-client)/./src/components/index.ts",
+      "name": "InfoCard",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/components/index.ts#Layout": {
+      "id": "(app-client)/./src/components/index.ts",
+      "name": "Layout",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/components/index.ts#Navbar": {
+      "id": "(app-client)/./src/components/index.ts",
+      "name": "Navbar",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/components/layout.tsx": {
+      "id": "(app-client)/./src/components/layout.tsx",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/components/layout.tsx#": {
+      "id": "(app-client)/./src/components/layout.tsx",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/components/layout.tsx#Layout": {
+      "id": "(app-client)/./src/components/layout.tsx",
+      "name": "Layout",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/components/layout.tsx#default": {
+      "id": "(app-client)/./src/components/layout.tsx",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/image/trees.jpg": {
+      "id": "(app-client)/./src/image/trees.jpg",
+      "name": "*",
+      "chunks": [
+        "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
+      ],
+      "async": false
+    },
+    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/image/trees.jpg#": {
+      "id": "(app-client)/./src/image/trees.jpg",
+      "name": "",
+      "chunks": [
+        "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
+      ],
+      "async": false
+    },
+    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/image/trees.jpg#default": {
+      "id": "(app-client)/./src/image/trees.jpg",
+      "name": "default",
+      "chunks": [
+        "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
       ],
       "async": false
     },
@@ -3330,158 +3546,6 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/components/fixed-plugin.tsx": {
-      "id": "(app-client)/./src/components/fixed-plugin.tsx",
-      "name": "*",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/components/fixed-plugin.tsx#": {
-      "id": "(app-client)/./src/components/fixed-plugin.tsx",
-      "name": "",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/components/fixed-plugin.tsx#FixedPlugin": {
-      "id": "(app-client)/./src/components/fixed-plugin.tsx",
-      "name": "FixedPlugin",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/components/footer.tsx": {
-      "id": "(app-client)/./src/components/footer.tsx",
-      "name": "*",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/components/footer.tsx#": {
-      "id": "(app-client)/./src/components/footer.tsx",
-      "name": "",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/components/footer.tsx#Footer": {
-      "id": "(app-client)/./src/components/footer.tsx",
-      "name": "Footer",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/components/footer.tsx#default": {
-      "id": "(app-client)/./src/components/footer.tsx",
-      "name": "default",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/components/index.ts": {
-      "id": "(app-client)/./src/components/index.ts",
-      "name": "*",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/components/index.ts#": {
-      "id": "(app-client)/./src/components/index.ts",
-      "name": "",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/components/index.ts#FeatureCard": {
-      "id": "(app-client)/./src/components/index.ts",
-      "name": "FeatureCard",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/components/index.ts#FixedPlugin": {
-      "id": "(app-client)/./src/components/index.ts",
-      "name": "FixedPlugin",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/components/index.ts#Footer": {
-      "id": "(app-client)/./src/components/index.ts",
-      "name": "Footer",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/components/index.ts#InfoCard": {
-      "id": "(app-client)/./src/components/index.ts",
-      "name": "InfoCard",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/components/index.ts#Layout": {
-      "id": "(app-client)/./src/components/index.ts",
-      "name": "Layout",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/components/index.ts#Navbar": {
-      "id": "(app-client)/./src/components/index.ts",
-      "name": "Navbar",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/components/layout.tsx": {
-      "id": "(app-client)/./src/components/layout.tsx",
-      "name": "*",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/components/layout.tsx#": {
-      "id": "(app-client)/./src/components/layout.tsx",
-      "name": "",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/components/layout.tsx#Layout": {
-      "id": "(app-client)/./src/components/layout.tsx",
-      "name": "Layout",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/components/layout.tsx#default": {
-      "id": "(app-client)/./src/components/layout.tsx",
-      "name": "default",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
     "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/app/testimonials/page.tsx": {
       "id": "(app-client)/./src/app/testimonials/page.tsx",
       "name": "*",
@@ -3513,20 +3577,6 @@ self.__RSC_MANIFEST={
         "app/testimonials/page:static/chunks/app/testimonials/page.js"
       ],
       "async": false
-    },
-    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/app/globals.css#": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/app/layout.css"
-      ]
-    },
-    "/Users/emilyhkim/Desktop/GitHub/CharityChain/node_modules/next/font/google/target.css?{\"path\":\"src/app/layout.tsx\",\"import\":\"Roboto\",\"arguments\":[{\"subsets\":[\"latin\"],\"weight\":[\"300\",\"400\",\"500\",\"700\",\"900\"],\"display\":\"swap\"}],\"variableName\":\"roboto\"}#": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/app/layout.css"
-      ]
     }
   }
 }

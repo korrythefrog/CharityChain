@@ -70,7 +70,7 @@ export function Navbar() {
           target="_blank"
           variant="h6"
           color={isScrolling ? "gray" : "white"} children={undefined} placeholder={undefined}        >
-          Charity Chains
+          Charity Chain
         </Typography>
         <ul
           className={`ml-10 hidden items-center gap-6 lg:flex ${

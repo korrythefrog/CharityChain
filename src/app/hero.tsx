@@ -1,6 +1,7 @@
 "use client";
 
 import Image from "next/image";
+import trees from '/src/image/trees.jpg'
 import { Button, Typography } from "@material-tailwind/react";
 
 
@@ -42,7 +43,7 @@ function Hero() {
           <Image
             width={470}
             height={576}
-            src="/image/trees.png"
+            src={trees}
             alt="team work"
             className="col-span-1 my-20 h-full max-h-[30rem] -translate-y-32 md:max-h-[36rem] lg:my-0 lg:ml-auto lg:max-h-[40rem] lg:translate-y-0"
           />
