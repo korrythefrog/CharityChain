@@ -112,7 +112,7 @@ export function GreenFuturesFoundation() {
                   type="submit"
                   className="btn btn-primary submit-button focus:ring focus:outline-none w-full"
                 >
-                  Transfer
+                  Donate
                 </button>
               </footer>
             </form>

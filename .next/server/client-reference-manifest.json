@@ -1111,17 +1111,9 @@
         ],
         "async": false
       },
-      "FeatureCard": {
+      "Navbar": {
         "id": "(sc_client)/./src/components/index.ts",
-        "name": "FeatureCard",
-        "chunks": [
-          "app/testimonials/page:static/chunks/app/testimonials/page.js"
-        ],
-        "async": false
-      },
-      "FixedPlugin": {
-        "id": "(sc_client)/./src/components/index.ts",
-        "name": "FixedPlugin",
+        "name": "Navbar",
         "chunks": [
           "app/testimonials/page:static/chunks/app/testimonials/page.js"
         ],
@@ -1135,14 +1127,6 @@
         ],
         "async": false
       },
-      "InfoCard": {
-        "id": "(sc_client)/./src/components/index.ts",
-        "name": "InfoCard",
-        "chunks": [
-          "app/testimonials/page:static/chunks/app/testimonials/page.js"
-        ],
-        "async": false
-      },
       "Layout": {
         "id": "(sc_client)/./src/components/index.ts",
         "name": "Layout",
@@ -1151,9 +1135,25 @@
         ],
         "async": false
       },
-      "Navbar": {
+      "FeatureCard": {
         "id": "(sc_client)/./src/components/index.ts",
-        "name": "Navbar",
+        "name": "FeatureCard",
+        "chunks": [
+          "app/testimonials/page:static/chunks/app/testimonials/page.js"
+        ],
+        "async": false
+      },
+      "InfoCard": {
+        "id": "(sc_client)/./src/components/index.ts",
+        "name": "InfoCard",
+        "chunks": [
+          "app/testimonials/page:static/chunks/app/testimonials/page.js"
+        ],
+        "async": false
+      },
+      "FixedPlugin": {
+        "id": "(sc_client)/./src/components/index.ts",
+        "name": "FixedPlugin",
         "chunks": [
           "app/testimonials/page:static/chunks/app/testimonials/page.js"
         ],
@@ -3452,17 +3452,9 @@
       ],
       "async": false
     },
-    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/components/index.ts#FeatureCard": {
+    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/components/index.ts#Navbar": {
       "id": "(app-client)/./src/components/index.ts",
-      "name": "FeatureCard",
-      "chunks": [
-        "app/testimonials/page:static/chunks/app/testimonials/page.js"
-      ],
-      "async": false
-    },
-    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/components/index.ts#FixedPlugin": {
-      "id": "(app-client)/./src/components/index.ts",
-      "name": "FixedPlugin",
+      "name": "Navbar",
       "chunks": [
         "app/testimonials/page:static/chunks/app/testimonials/page.js"
       ],
@@ -3476,14 +3468,6 @@
       ],
       "async": false
     },
-    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/components/index.ts#InfoCard": {
-      "id": "(app-client)/./src/components/index.ts",
-      "name": "InfoCard",
-      "chunks": [
-        "app/testimonials/page:static/chunks/app/testimonials/page.js"
-      ],
-      "async": false
-    },
     "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/components/index.ts#Layout": {
       "id": "(app-client)/./src/components/index.ts",
       "name": "Layout",
@@ -3492,9 +3476,25 @@
       ],
       "async": false
     },
-    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/components/index.ts#Navbar": {
+    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/components/index.ts#FeatureCard": {
       "id": "(app-client)/./src/components/index.ts",
-      "name": "Navbar",
+      "name": "FeatureCard",
+      "chunks": [
+        "app/testimonials/page:static/chunks/app/testimonials/page.js"
+      ],
+      "async": false
+    },
+    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/components/index.ts#InfoCard": {
+      "id": "(app-client)/./src/components/index.ts",
+      "name": "InfoCard",
+      "chunks": [
+        "app/testimonials/page:static/chunks/app/testimonials/page.js"
+      ],
+      "async": false
+    },
+    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/components/index.ts#FixedPlugin": {
+      "id": "(app-client)/./src/components/index.ts",
+      "name": "FixedPlugin",
       "chunks": [
         "app/testimonials/page:static/chunks/app/testimonials/page.js"
       ],
