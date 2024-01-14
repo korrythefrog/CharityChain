@@ -1079,7 +1079,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./src/image/trees.jpg",
         "name": "*",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
         ],
         "async": false
       },
@@ -1087,7 +1087,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./src/image/trees.jpg",
         "name": "",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
         ],
         "async": false
       },
@@ -1095,41 +1095,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./src/image/trees.jpg",
         "name": "default",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/app/green-futures-foundation/page.tsx": {
-      "*": {
-        "id": "(sc_client)/./src/app/green-futures-foundation/page.tsx",
-        "name": "*",
-        "chunks": [
-          "app/page:static/chunks/app/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/app/green-futures-foundation/page.tsx",
-        "name": "",
-        "chunks": [
-          "app/page:static/chunks/app/page.js"
-        ],
-        "async": false
-      },
-      "GreenFuturesFoundation": {
-        "id": "(sc_client)/./src/app/green-futures-foundation/page.tsx",
-        "name": "GreenFuturesFoundation",
-        "chunks": [
-          "app/page:static/chunks/app/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/app/green-futures-foundation/page.tsx",
-        "name": "default",
-        "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
         ],
         "async": false
       }
@@ -1164,6 +1130,40 @@ self.__RSC_MANIFEST={
         "name": "default",
         "chunks": [
           "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/green-futures-foundation/page.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/app/green-futures-foundation/page.tsx",
+        "name": "*",
+        "chunks": [
+          "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/green-futures-foundation/page.tsx",
+        "name": "",
+        "chunks": [
+          "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
+        ],
+        "async": false
+      },
+      "GreenFuturesFoundation": {
+        "id": "(sc_client)/./src/app/green-futures-foundation/page.tsx",
+        "name": "GreenFuturesFoundation",
+        "chunks": [
+          "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/app/green-futures-foundation/page.tsx",
+        "name": "default",
+        "chunks": [
+          "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
         ],
         "async": false
       }
@@ -3438,7 +3438,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./src/image/trees.jpg",
       "name": "*",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
       ],
       "async": false
     },
@@ -3446,7 +3446,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./src/image/trees.jpg",
       "name": "",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
       ],
       "async": false
     },
@@ -3454,39 +3454,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./src/image/trees.jpg",
       "name": "default",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/app/green-futures-foundation/page.tsx": {
-      "id": "(app-client)/./src/app/green-futures-foundation/page.tsx",
-      "name": "*",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/app/green-futures-foundation/page.tsx#": {
-      "id": "(app-client)/./src/app/green-futures-foundation/page.tsx",
-      "name": "",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/app/green-futures-foundation/page.tsx#GreenFuturesFoundation": {
-      "id": "(app-client)/./src/app/green-futures-foundation/page.tsx",
-      "name": "GreenFuturesFoundation",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/app/green-futures-foundation/page.tsx#default": {
-      "id": "(app-client)/./src/app/green-futures-foundation/page.tsx",
-      "name": "default",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
       ],
       "async": false
     },
@@ -3519,6 +3487,38 @@ self.__RSC_MANIFEST={
       "name": "default",
       "chunks": [
         "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/app/green-futures-foundation/page.tsx": {
+      "id": "(app-client)/./src/app/green-futures-foundation/page.tsx",
+      "name": "*",
+      "chunks": [
+        "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
+      ],
+      "async": false
+    },
+    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/app/green-futures-foundation/page.tsx#": {
+      "id": "(app-client)/./src/app/green-futures-foundation/page.tsx",
+      "name": "",
+      "chunks": [
+        "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
+      ],
+      "async": false
+    },
+    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/app/green-futures-foundation/page.tsx#GreenFuturesFoundation": {
+      "id": "(app-client)/./src/app/green-futures-foundation/page.tsx",
+      "name": "GreenFuturesFoundation",
+      "chunks": [
+        "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
+      ],
+      "async": false
+    },
+    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/app/green-futures-foundation/page.tsx#default": {
+      "id": "(app-client)/./src/app/green-futures-foundation/page.tsx",
+      "name": "default",
+      "chunks": [
+        "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
       ],
       "async": false
     },
