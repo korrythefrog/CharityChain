@@ -49,11 +49,6 @@ export function Testimonials() {
             Charities log onto their profile to manage their donated funds. All transactions are tracked with the power of blockchain and shared with donors.
           </Typography>
         </div>
-        <div className="grid grid-cols-1 gap-x-8 gap-y-12 md:grid-cols-3 lg:px-20">
-          {TESTIMONIALS.map((props, key) => (
-            <TestimonialCard key={key} {...props} />
-          ))}
-        </div>
       </div>
     </section><Footer /></>
 
