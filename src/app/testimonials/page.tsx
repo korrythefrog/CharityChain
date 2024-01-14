@@ -1,4 +1,5 @@
 "use client";
+import { Navbar, Footer } from "@/components";
 
 import React from "react";
 import { Typography, Card, CardBody, Avatar } from "@material-tailwind/react";
@@ -32,22 +33,20 @@ const TESTIMONIALS = [
 
 export function Testimonials() {
   return (
-    <section className="px-10 !py-20">
+    <><Navbar /><section className="px-10 !py-20">
       <div className="container mx-auto">
         <div className="mb-20 flex w-full flex-col items-center">
           <div className="mb-10 flex h-12 w-12 items-center justify-center rounded-lg bg-gray-900 text-white ">
             <UserIcon className="h-6 w-6" />
           </div>
           <Typography variant="h2" color="blue-gray" className="mb-2">
-            What Clients Say
+            Account Management
           </Typography>
           <Typography
             variant="lead"
             className="mb-10 max-w-3xl text-center !text-gray-600"
           >
-            Discover what our valued clients have to say about their experiences
-            with our services. We take pride in delivering exceptional results
-            and fostering lasting partnerships.
+            Charities log onto their profile to manage their donated funds. All transactions are tracked with the power of blockchain and shared with donors.
           </Typography>
         </div>
         <div className="grid grid-cols-1 gap-x-8 gap-y-12 md:grid-cols-3 lg:px-20">
@@ -56,7 +55,8 @@ export function Testimonials() {
           ))}
         </div>
       </div>
-    </section>
+    </section><Footer /></>
+
   );
 }
 export default Testimonials;

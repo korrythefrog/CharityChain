@@ -41,7 +41,7 @@ const FEATURES = [
 
 export function Features() {
   return (
-    <section className="py-28 px-4">
+    <section className="py-28 px-4" id='charityList'>
       <div className="container mx-auto mb-20 text-center">
         <Typography variant="h1" color="blue-gray" className="mb-4">
           Explore Our Diverse Range of Charitable Causes

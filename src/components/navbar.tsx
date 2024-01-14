@@ -18,7 +18,6 @@ function NavItem({ children, href }: NavItemProps) {
       <Typography
         as="a"
         href={href || "#"}
-        // target={href ? "_blank" : "_self"}
         variant="small"
         className="font-medium" children={undefined} placeholder={undefined}      >
         {children}
@@ -66,7 +65,7 @@ export function Navbar() {
       <div className="container mx-auto flex items-center justify-between">
         <Typography
           as="a"
-          href="https://www.material-tailwind.com"
+          href=""
           target="_blank"
           variant="h6"
           color={isScrolling ? "gray" : "white"} children={undefined} placeholder={undefined}        >
@@ -77,9 +76,9 @@ export function Navbar() {
             isScrolling ? "text-gray-900" : "text-white"
           }`}
         >
-          <NavItem>Home</NavItem>
+          <NavItem href="/page.tsx">Home</NavItem>
           <NavItem href="#aboutUs">About Us</NavItem>
-          <NavItem>For Donors</NavItem>
+          <NavItem href="#charityList">For Donors</NavItem>
           <NavItem href="/testimonials">
             For Charities
           </NavItem>
@@ -103,7 +102,7 @@ export function Navbar() {
             size="sm" children={undefined} placeholder={undefined}          >
             <i className="fa-brands fa-instagram text-base" />
           </IconButton>
-          <a href="https://www.material-tailwind.com/blocks" target="_blank">
+          <a href="" target="_blank">
           </a>
         </div>
         <IconButton
@@ -121,10 +120,10 @@ export function Navbar() {
       <Collapse open={open}>
         <div className="container mx-auto mt-4 rounded-lg border-t border-blue-gray-50 bg-white px-6 py-5">
           <ul className="flex flex-col gap-4 text-blue-gray-900">
-            <NavItem>Home</NavItem>
+            <NavItem href="/page.tsx">Home</NavItem>
             <NavItem>About Us</NavItem>
-            <NavItem>For Donors</NavItem>
-            <NavItem href="https://www.material-tailwind.com/docs/react/installation">
+            <NavItem href="/charityList">For Donors</NavItem>
+            <NavItem href="">
               For Charities
             </NavItem>
           </ul>
