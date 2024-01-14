@@ -742,6 +742,32 @@ self.__RSC_MANIFEST={
         "async": false
       }
     },
+    "(app-client)/./src/image/trees.jpg": {
+      "*": {
+        "id": "(sc_client)/./src/image/trees.jpg",
+        "name": "*",
+        "chunks": [
+          "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/image/trees.jpg",
+        "name": "",
+        "chunks": [
+          "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/image/trees.jpg",
+        "name": "default",
+        "chunks": [
+          "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
+        ],
+        "async": false
+      }
+    },
     "(app-client)/./node_modules/next/dist/client/image.js": {
       "*": {
         "id": "(sc_client)/./node_modules/next/dist/client/image.js",
@@ -914,6 +940,100 @@ self.__RSC_MANIFEST={
         "async": false
       }
     },
+    "(app-client)/./src/app/feature.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/app/feature.tsx",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/feature.tsx",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "Features": {
+        "id": "(sc_client)/./src/app/feature.tsx",
+        "name": "Features",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/app/feature.tsx",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/green-futures-foundation/page.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/app/green-futures-foundation/page.tsx",
+        "name": "*",
+        "chunks": [
+          "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/green-futures-foundation/page.tsx",
+        "name": "",
+        "chunks": [
+          "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
+        ],
+        "async": false
+      },
+      "GreenFuturesFoundation": {
+        "id": "(sc_client)/./src/app/green-futures-foundation/page.tsx",
+        "name": "GreenFuturesFoundation",
+        "chunks": [
+          "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/app/green-futures-foundation/page.tsx",
+        "name": "default",
+        "chunks": [
+          "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/hero.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/app/hero.tsx",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/hero.tsx",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/app/hero.tsx",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
     "(app-client)/./src/components/fixed-plugin.tsx": {
       "*": {
         "id": "(sc_client)/./src/components/fixed-plugin.tsx",
@@ -1070,126 +1190,6 @@ self.__RSC_MANIFEST={
         "name": "default",
         "chunks": [
           "app/testimonials/page:static/chunks/app/testimonials/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/image/trees.jpg": {
-      "*": {
-        "id": "(sc_client)/./src/image/trees.jpg",
-        "name": "*",
-        "chunks": [
-          "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/image/trees.jpg",
-        "name": "",
-        "chunks": [
-          "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/image/trees.jpg",
-        "name": "default",
-        "chunks": [
-          "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/app/feature.tsx": {
-      "*": {
-        "id": "(sc_client)/./src/app/feature.tsx",
-        "name": "*",
-        "chunks": [
-          "app/page:static/chunks/app/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/app/feature.tsx",
-        "name": "",
-        "chunks": [
-          "app/page:static/chunks/app/page.js"
-        ],
-        "async": false
-      },
-      "Features": {
-        "id": "(sc_client)/./src/app/feature.tsx",
-        "name": "Features",
-        "chunks": [
-          "app/page:static/chunks/app/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/app/feature.tsx",
-        "name": "default",
-        "chunks": [
-          "app/page:static/chunks/app/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/app/green-futures-foundation/page.tsx": {
-      "*": {
-        "id": "(sc_client)/./src/app/green-futures-foundation/page.tsx",
-        "name": "*",
-        "chunks": [
-          "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/app/green-futures-foundation/page.tsx",
-        "name": "",
-        "chunks": [
-          "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
-        ],
-        "async": false
-      },
-      "GreenFuturesFoundation": {
-        "id": "(sc_client)/./src/app/green-futures-foundation/page.tsx",
-        "name": "GreenFuturesFoundation",
-        "chunks": [
-          "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/app/green-futures-foundation/page.tsx",
-        "name": "default",
-        "chunks": [
-          "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./src/app/hero.tsx": {
-      "*": {
-        "id": "(sc_client)/./src/app/hero.tsx",
-        "name": "*",
-        "chunks": [
-          "app/page:static/chunks/app/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/app/hero.tsx",
-        "name": "",
-        "chunks": [
-          "app/page:static/chunks/app/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/app/hero.tsx",
-        "name": "default",
-        "chunks": [
-          "app/page:static/chunks/app/page.js"
         ],
         "async": false
       }
@@ -2932,19 +2932,29 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/app/globals.css#": {
-      "id": "null",
-      "name": "default",
+    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/image/trees.jpg": {
+      "id": "(app-client)/./src/image/trees.jpg",
+      "name": "*",
       "chunks": [
-        "static/css/app/layout.css"
-      ]
+        "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
+      ],
+      "async": false
     },
-    "/Users/emilyhkim/Desktop/GitHub/CharityChain/node_modules/next/font/google/target.css?{\"path\":\"src/app/layout.tsx\",\"import\":\"Roboto\",\"arguments\":[{\"subsets\":[\"latin\"],\"weight\":[\"300\",\"400\",\"500\",\"700\",\"900\"],\"display\":\"swap\"}],\"variableName\":\"roboto\"}#": {
-      "id": "null",
+    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/image/trees.jpg#": {
+      "id": "(app-client)/./src/image/trees.jpg",
+      "name": "",
+      "chunks": [
+        "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
+      ],
+      "async": false
+    },
+    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/image/trees.jpg#default": {
+      "id": "(app-client)/./src/image/trees.jpg",
       "name": "default",
       "chunks": [
-        "static/css/app/layout.css"
-      ]
+        "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
+      ],
+      "async": false
     },
     "/Users/emilyhkim/Desktop/GitHub/CharityChain/node_modules/next/dist/client/image.js": {
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
@@ -3282,6 +3292,94 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
+    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/app/feature.tsx": {
+      "id": "(app-client)/./src/app/feature.tsx",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/app/feature.tsx#": {
+      "id": "(app-client)/./src/app/feature.tsx",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/app/feature.tsx#Features": {
+      "id": "(app-client)/./src/app/feature.tsx",
+      "name": "Features",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/app/feature.tsx#default": {
+      "id": "(app-client)/./src/app/feature.tsx",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/app/green-futures-foundation/page.tsx": {
+      "id": "(app-client)/./src/app/green-futures-foundation/page.tsx",
+      "name": "*",
+      "chunks": [
+        "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
+      ],
+      "async": false
+    },
+    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/app/green-futures-foundation/page.tsx#": {
+      "id": "(app-client)/./src/app/green-futures-foundation/page.tsx",
+      "name": "",
+      "chunks": [
+        "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
+      ],
+      "async": false
+    },
+    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/app/green-futures-foundation/page.tsx#GreenFuturesFoundation": {
+      "id": "(app-client)/./src/app/green-futures-foundation/page.tsx",
+      "name": "GreenFuturesFoundation",
+      "chunks": [
+        "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
+      ],
+      "async": false
+    },
+    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/app/green-futures-foundation/page.tsx#default": {
+      "id": "(app-client)/./src/app/green-futures-foundation/page.tsx",
+      "name": "default",
+      "chunks": [
+        "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
+      ],
+      "async": false
+    },
+    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/app/hero.tsx": {
+      "id": "(app-client)/./src/app/hero.tsx",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/app/hero.tsx#": {
+      "id": "(app-client)/./src/app/hero.tsx",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/app/hero.tsx#default": {
+      "id": "(app-client)/./src/app/hero.tsx",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
     "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/components/fixed-plugin.tsx": {
       "id": "(app-client)/./src/components/fixed-plugin.tsx",
       "name": "*",
@@ -3434,117 +3532,19 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/image/trees.jpg": {
-      "id": "(app-client)/./src/image/trees.jpg",
-      "name": "*",
-      "chunks": [
-        "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
-      ],
-      "async": false
-    },
-    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/image/trees.jpg#": {
-      "id": "(app-client)/./src/image/trees.jpg",
-      "name": "",
-      "chunks": [
-        "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
-      ],
-      "async": false
-    },
-    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/image/trees.jpg#default": {
-      "id": "(app-client)/./src/image/trees.jpg",
+    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/app/globals.css#": {
+      "id": "null",
       "name": "default",
       "chunks": [
-        "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
-      ],
-      "async": false
+        "static/css/app/layout.css"
+      ]
     },
-    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/app/feature.tsx": {
-      "id": "(app-client)/./src/app/feature.tsx",
-      "name": "*",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/app/feature.tsx#": {
-      "id": "(app-client)/./src/app/feature.tsx",
-      "name": "",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/app/feature.tsx#Features": {
-      "id": "(app-client)/./src/app/feature.tsx",
-      "name": "Features",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/app/feature.tsx#default": {
-      "id": "(app-client)/./src/app/feature.tsx",
+    "/Users/emilyhkim/Desktop/GitHub/CharityChain/node_modules/next/font/google/target.css?{\"path\":\"src/app/layout.tsx\",\"import\":\"Roboto\",\"arguments\":[{\"subsets\":[\"latin\"],\"weight\":[\"300\",\"400\",\"500\",\"700\",\"900\"],\"display\":\"swap\"}],\"variableName\":\"roboto\"}#": {
+      "id": "null",
       "name": "default",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/app/green-futures-foundation/page.tsx": {
-      "id": "(app-client)/./src/app/green-futures-foundation/page.tsx",
-      "name": "*",
-      "chunks": [
-        "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
-      ],
-      "async": false
-    },
-    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/app/green-futures-foundation/page.tsx#": {
-      "id": "(app-client)/./src/app/green-futures-foundation/page.tsx",
-      "name": "",
-      "chunks": [
-        "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
-      ],
-      "async": false
-    },
-    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/app/green-futures-foundation/page.tsx#GreenFuturesFoundation": {
-      "id": "(app-client)/./src/app/green-futures-foundation/page.tsx",
-      "name": "GreenFuturesFoundation",
-      "chunks": [
-        "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
-      ],
-      "async": false
-    },
-    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/app/green-futures-foundation/page.tsx#default": {
-      "id": "(app-client)/./src/app/green-futures-foundation/page.tsx",
-      "name": "default",
-      "chunks": [
-        "app/green-futures-foundation/page:static/chunks/app/green-futures-foundation/page.js"
-      ],
-      "async": false
-    },
-    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/app/hero.tsx": {
-      "id": "(app-client)/./src/app/hero.tsx",
-      "name": "*",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/app/hero.tsx#": {
-      "id": "(app-client)/./src/app/hero.tsx",
-      "name": "",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/app/hero.tsx#default": {
-      "id": "(app-client)/./src/app/hero.tsx",
-      "name": "default",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
+        "static/css/app/layout.css"
+      ]
     },
     "/Users/emilyhkim/Desktop/GitHub/CharityChain/src/app/testimonials/page.tsx": {
       "id": "(app-client)/./src/app/testimonials/page.tsx",
